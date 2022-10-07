@@ -1,9 +1,0 @@
-language: python
-python:
-  - "3.5"
-install:
-  - pip install requests
-# command to run tests
-script:
-  - https://api.github.com/repos/ShivShah202000/hw2b/commits
-  - https://api.github.com/repos/ShivShah202000/SSW-567-Programs/commits
