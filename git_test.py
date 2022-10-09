@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct  7 17:50:07 2022
-
-@author: jay rana
-"""
 
 import unittest
 from git import numberReposandCommits
